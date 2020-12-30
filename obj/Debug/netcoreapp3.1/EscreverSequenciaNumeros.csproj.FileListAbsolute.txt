@@ -1,0 +1,26 @@
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/bin/Debug/netcoreapp3.1/EscreverSequenciaNumeros
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/bin/Debug/netcoreapp3.1/EscreverSequenciaNumeros.deps.json
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/bin/Debug/netcoreapp3.1/EscreverSequenciaNumeros.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/bin/Debug/netcoreapp3.1/EscreverSequenciaNumeros.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/bin/Debug/netcoreapp3.1/EscreverSequenciaNumeros.dll
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/bin/Debug/netcoreapp3.1/EscreverSequenciaNumeros.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/obj/Debug/netcoreapp3.1/EscreverSequenciaNumeros.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/obj/Debug/netcoreapp3.1/EscreverSequenciaNumeros.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/obj/Debug/netcoreapp3.1/EscreverSequenciaNumeros.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/obj/Debug/netcoreapp3.1/EscreverSequenciaNumeros.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/obj/Debug/netcoreapp3.1/EscreverSequenciaNumeros.dll
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/obj/Debug/netcoreapp3.1/EscreverSequenciaNumeros.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 22.06/EscreverSequenciaNumeros/obj/Debug/netcoreapp3.1/EscreverSequenciaNumeros.genruntimeconfig.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\bin\Debug\netcoreapp3.1\EscreverSequenciaNumeros.exe
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\bin\Debug\netcoreapp3.1\EscreverSequenciaNumeros.deps.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\bin\Debug\netcoreapp3.1\EscreverSequenciaNumeros.runtimeconfig.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\bin\Debug\netcoreapp3.1\EscreverSequenciaNumeros.runtimeconfig.dev.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\bin\Debug\netcoreapp3.1\EscreverSequenciaNumeros.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\bin\Debug\netcoreapp3.1\EscreverSequenciaNumeros.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\obj\Debug\netcoreapp3.1\EscreverSequenciaNumeros.csprojAssemblyReference.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\obj\Debug\netcoreapp3.1\EscreverSequenciaNumeros.AssemblyInfoInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\obj\Debug\netcoreapp3.1\EscreverSequenciaNumeros.AssemblyInfo.cs
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\obj\Debug\netcoreapp3.1\EscreverSequenciaNumeros.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\obj\Debug\netcoreapp3.1\EscreverSequenciaNumeros.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\obj\Debug\netcoreapp3.1\EscreverSequenciaNumeros.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 22.06\EscreverSequenciaNumeros\obj\Debug\netcoreapp3.1\EscreverSequenciaNumeros.genruntimeconfig.cache
